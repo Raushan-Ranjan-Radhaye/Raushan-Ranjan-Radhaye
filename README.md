@@ -78,5 +78,5 @@
 </p>
 
 
-![Twitter Banner (1)](https://github.com/Raushan-Ranjan-Radhaye/Raushan-Ranjan-Radhaye/blob/main/unnamed%201-Picsart-AiImageEnhancer.jpg)
+![Twitter Banner (1)](https://github.com/Raushan-Ranjan-Radhaye/Raushan-Ranjan-Radhaye/blob/main/unnamed-Picsart-AiImageEnhancer%20(1).jpg)
 
