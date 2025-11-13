@@ -1,4 +1,4 @@
-![Twitter Banner (1)](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
+![Twitter Banner (1)](https://github.com/Raushan-Ranjan-Radhaye/Raushan-Ranjan-Radhaye/blob/main/unnamed%201-Picsart-AiImageEnhancer.jpg)
 
 <h1 align="center">Hi 👋, I'm Raushan Ranjan</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -78,5 +78,5 @@
 </p>
 
 
-
+![Twitter Banner (1)](https://github.com/Raushan-Ranjan-Radhaye/Raushan-Ranjan-Radhaye/blob/main/unnamed%201-Picsart-AiImageEnhancer.jpg)
 
