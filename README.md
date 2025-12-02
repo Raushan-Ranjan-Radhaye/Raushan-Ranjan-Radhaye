@@ -1,4 +1,3 @@
-
 <img height="300" width="1300" alt="cdi" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Raushan Ranjan</h1>
@@ -7,14 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Developer+from+India👋;+I'm+Software+Engineer;I'm+AI/ML+Engineer;I'm+Cyber+Security+Specialist;I'm+Hacker;" />
 </h1>
 
-
-
-
-
-
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=raushan-ranjan-radhaye&label=Profile%20views&color=0e75b6&style=flat" alt="raushan-ranjan-radhaye" />
@@ -30,8 +22,6 @@
 - 🤝 I'm looking for help with **App Development**
 
 - 💬 Ask me about **Node.js, Express.js, MongoDB, React.js and Web Development**
-
-
 
 - 📫 How to reach me **ranjanraushan2005@gmail.com**  
 - ⚡ Fun fact **I am funny 😄**
