@@ -1,5 +1,5 @@
 
-<img height="270" width="1200" alt="cdi" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="">
+<img height="300" width="1300" alt="cdi" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Raushan Ranjan</h1>
 
