@@ -1,4 +1,5 @@
-![Twitter Banner (1)](https://github.com/Raushan-Ranjan-Radhaye/Raushan-Ranjan-Radhaye/blob/main/unnamed%201-Picsart-AiImageEnhancer.jpg)
+
+<img height="270" width="1200" alt="cdi" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="">
 
 <h1 align="center">Hi 👋, I'm Raushan Ranjan</h1>
 
@@ -184,4 +185,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raushan-Ranjan-Radhaye&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+
 
